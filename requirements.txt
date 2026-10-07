@@ -1,0 +1,22 @@
+# Research Agentic AI — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# ── Web Framework ──────────────────────────────────────
+Flask==3.0.3
+flask-cors==4.0.1
+Werkzeug==3.0.3
+
+# ── AI / Groq API ──────────────────────────────────────
+groq==0.9.0
+
+# ── PDF Processing ─────────────────────────────────────
+PyMuPDF==1.24.9
+
+# ── Environment Variables ──────────────────────────────
+python-dotenv==1.0.1
+
+# ── Utilities ──────────────────────────────────────────
+requests==2.32.3
+
+# ── Real-time Web Search (Tavily) ──────────────────────
+tavily-python==0.5.0
